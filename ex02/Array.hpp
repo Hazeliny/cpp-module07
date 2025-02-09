@@ -6,7 +6,7 @@
 /*   By: linyao <linyao@student.42barcelona.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/08 18:04:29 by linyao            #+#    #+#             */
-/*   Updated: 2025/02/08 21:02:07 by linyao           ###   ########.fr       */
+/*   Updated: 2025/02/09 15:06:34 by linyao           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,8 @@
 
 #include <iostream>
 #include <string>
+#include <cstdlib>
+//#include <ctime>
 
 template <typename T>
 class Array
